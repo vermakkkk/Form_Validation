@@ -11,8 +11,7 @@ function App() {
       password: "",
     }
   )
-  const[err,setErr]=useState(false)
-useEffect(()=>{
+
 
 },[values])
  const [submitted,setSubmitted]=useState(false)
